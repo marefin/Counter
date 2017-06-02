@@ -1,4 +1,4 @@
 # Counter
-this is a test
-made changes
+this is a test /n
+made changes /n
 added stuff
